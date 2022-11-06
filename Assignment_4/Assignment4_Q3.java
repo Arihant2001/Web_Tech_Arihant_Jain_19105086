@@ -146,7 +146,7 @@ class Number{
             }
         }
         else{
-            System.out.print("Cannot be determined");
+            System.out.print("Cannot be determined as it has digits after the decimal point");
         }
     }
 }
